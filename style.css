@@ -42,15 +42,15 @@ body{
 }
 
 #hogwarts{
-	background-image: url('img/harry.jpeg');
+	background-image: url('harry.jpeg');
 }
 
 #forest{
-	background-image: url('img/Deer.jpeg');
+	background-image: url('Deer.jpeg');
 }
 
 #dining{
-	background-image: url('img/dining.png');
+	background-image: url('dining.png');
 }
 
 /*Golden Snitch div*/
